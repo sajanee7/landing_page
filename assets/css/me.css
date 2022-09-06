@@ -188,11 +188,11 @@ body.page-template-page-fullsingle-me {
     .bio {
       max-width: none; } }
   .bio a {
-    color: #CCCCCC;
+    color: #000000;
     -webkit-transition: 1s;
     transition: 1s; }
     .bio a:hover {
-      color: #FFFFFF;
+      color: #000000;
       -webkit-transition: 0.1s;
       transition: 0.1s; }
 
